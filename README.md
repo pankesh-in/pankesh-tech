@@ -3,7 +3,7 @@
 Live root:
 https://pankesh-in.github.io/pankesh-tech/
 
-Published template folders: 136 / 140
+Published template folders: 140 / 140
 
 Pending folders:
-t091, t092, t116, t140
+
