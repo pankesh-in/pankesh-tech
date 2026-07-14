@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Mainstage — Live Q&amp;A">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2A2A33"/>
+    </pattern>
+    <radialGradient id="spotR" cx="0.85" cy="0" r="0.7">
+      <stop offset="0%" stop-color="#FF2D2D" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FF2D2D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spotG" cx="0.05" cy="1" r="0.6">
+      <stop offset="0%" stop-color="#00E0A4" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00E0A4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="60%" stop-color="#0E0E10" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0E0E10" stop-opacity="0.85"/>

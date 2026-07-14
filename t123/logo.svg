@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 96" role="img" aria-label="Apex & Asphalt">
+  <style>
+    .display { font-family: 'Fraunces', 'Times New Roman', serif; font-weight: 500; }
+    .italic { font-family: 'Fraunces', 'Times New Roman', serif; font-style: italic; font-weight: 300; }
+    .meta { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 10px; letter-spacing: 0.18em; }
+  </style>
+  <text x="0" y="58" class="display" font-size="56" fill="#0E0E10">
+    Apex<tspan class="italic" fill="#0E0E10" dx="6">&amp;</tspan><tspan dx="6">Asphalt</tspan>
+  </text>
+  <line x1="0" y1="78" x2="380" y2="78" stroke="#0E0E10" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="0" y="92" class="meta" fill="#0E0E10" fill-opacity="0.6">
+    AUTOMOTIVE EDITORIAL · EST. MMXX
+  </text>
+</svg>

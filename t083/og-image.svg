@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F0E4"/>
+  <circle cx="995" cy="120" r="260" fill="#A9C9A4" fill-opacity="0.55"/>
+  <circle cx="170" cy="520" r="210" fill="#D9A88F" fill-opacity="0.38"/>
+  <path d="M120 126C120 104.461 137.461 87 159 87H1041C1062.54 87 1080 104.461 1080 126V504C1080 525.539 1062.54 543 1041 543H159C137.461 543 120 525.539 120 504V126Z" stroke="#3F6F4B" stroke-width="3"/>
+  <path d="M835 390C835 312 892 251 985 240C994 337 943 464 858 464C845.297 464 835 453.703 835 441V390Z" fill="#3F6F4B"/>
+  <path d="M852 444C887 372 925 321 982 267" stroke="#F6F0E4" stroke-width="8" stroke-linecap="round"/>
+  <text x="165" y="240" fill="#263A2B" font-family="Georgia, serif" font-size="98" font-weight="700" letter-spacing="-5">People Grove</text>
+  <text x="170" y="312" fill="#C97858" font-family="Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="7">HUMAN-CENTERED PEOPLE CONSULTANCY</text>
+  <text x="170" y="402" fill="#5E6F61" font-family="Arial, sans-serif" font-size="34">Healthier teams, clearer culture, better places to grow.</text>
+</svg>

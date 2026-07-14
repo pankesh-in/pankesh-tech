@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0B0B14" />
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA" />
+      <stop offset="50%" stop-color="#E879F9" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg-grad)" />
+  
+  <g transform="translate(100, 200)">
+    <path d="M40 0L50.75 24.25L77.5 28.25L58.25 47L62.75 73.5L40 60.5L17.25 73.5L21.75 47L2.5 28.25L29.25 24.25L40 0Z" fill="url(#text-grad)" />
+    <text x="100" y="60" font-family="system-ui, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF">Sloganly</text>
+    <text x="0" y="160" font-family="system-ui, sans-serif" font-size="48" font-weight="500" fill="#9CA3AF">AI slogans your brand will actually use.</text>
+    <text x="0" y="240" font-family="system-ui, sans-serif" font-size="32" font-weight="400" fill="#6B7280">Generate brand-ready taglines in seconds.</text>
+  </g>
+</svg>

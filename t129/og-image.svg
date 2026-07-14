@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1B2B"/>
+      <stop offset="60%" stop-color="#0E2236"/>
+      <stop offset="100%" stop-color="#152B43"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.15" r="0.8">
+      <stop offset="0%" stop-color="#C8A464" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#C8A464" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C8A464" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C8A464" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C8A464" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <g transform="translate(80,80)">
+    <rect width="56" height="56" rx="12" fill="#0B1B2B" stroke="#C8A464" stroke-width="1.5"/>
+    <path d="M14 42 V14 L30 32 V14 H42 V42 H38 L20 24 V42 Z" fill="#C8A464"/>
+  </g>
+
+  <text x="156" y="120" fill="#F7F2E9" font-family="Inter, sans-serif"
+        font-size="22" letter-spacing="6" font-weight="500">NORTHVALE CAPITAL</text>
+
+  <text x="80" y="320" fill="#F7F2E9" font-family="Fraunces, Georgia, serif"
+        font-size="92" font-weight="500" letter-spacing="-2">Private wealth,</text>
+  <text x="80" y="430" fill="#C8A464" font-family="Fraunces, Georgia, serif"
+        font-size="92" font-style="italic" font-weight="500" letter-spacing="-2">deliberately built.</text>
+
+  <rect x="80" y="500" width="280" height="1" fill="url(#rule)"/>
+
+  <text x="80" y="540" fill="#9CA3AF" font-family="Inter, sans-serif"
+        font-size="22" letter-spacing="0.5">Boutique advisory � Est. 1999 � New York</text>
+</svg>

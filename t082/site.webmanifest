@@ -1,0 +1,21 @@
+{
+  "name": "Percentify — Percentage Calculator",
+  "short_name": "Percentify",
+  "description": "Beautiful percentage calculator with six specialized tools, instant results and saved history.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbfbff",
+  "theme_color": "#6366f1",
+  "categories": ["productivity", "utilities", "finance"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

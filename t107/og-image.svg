@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111217"/>
+  <circle cx="945" cy="170" r="260" fill="#FF5A3D" fill-opacity="0.18"/>
+  <circle cx="210" cy="520" r="190" fill="#2BE4C6" fill-opacity="0.12"/>
+  <path d="M100 118H1100V512H100V118Z" stroke="#F4F0EA" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M100 315H1100" stroke="#F4F0EA" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M520 118V512" stroke="#F4F0EA" stroke-opacity="0.12" stroke-width="2"/>
+  <text x="150" y="245" fill="#F4F0EA" font-family="Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-5">Signal &amp; Chair</text>
+  <text x="154" y="315" fill="#FF5A3D" font-family="Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="8">EXECUTIVE LEADERSHIP LAB</text>
+  <text x="150" y="408" fill="#B9BDC9" font-family="Arial, sans-serif" font-size="34">Leadership systems for pressure, scale, and succession.</text>
+  <circle cx="964" cy="390" r="62" stroke="#FF5A3D" stroke-width="4"/>
+  <path d="M914 390H1014" stroke="#F4F0EA" stroke-width="4" stroke-linecap="round"/>
+  <path d="M964 340V440" stroke="#F4F0EA" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0b3b3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="160" r="220" fill="url(#accent)" opacity="0.25"/>
+  <circle cx="180" cy="520" r="200" fill="#22d3ee" opacity="0.15"/>
+
+  <g transform="translate(80,170)">
+    <rect width="84" height="84" rx="22" fill="url(#accent)"/>
+    <path d="M22 62c10-5 20-5 30 0s20 5 30 0" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="80" y="350" font-family="Sora, DM Sans, sans-serif" font-size="84" font-weight="800" fill="white">
+    BodyIndex
+  </text>
+  <text x="80" y="420" font-family="DM Sans, sans-serif" font-size="34" fill="#cbd5e1">
+    BMI, ideal weight &amp; daily calories — beautifully.
+  </text>
+
+  <g transform="translate(80,490)" font-family="DM Sans, sans-serif" font-size="22" fill="#94a3b8">
+    <text>Metric &amp; imperial</text>
+    <text x="220">Dark mode</text>
+    <text x="370">Progress tracking</text>
+    <text x="600">Science-based</text>
+  </g>
+</svg>
