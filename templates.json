@@ -1,841 +1,2942 @@
-﻿[
+[
     {
         "id":  "t001",
-        "title":  "Quiz Maker â€” Retro Arcade Quiz Builder",
+        "displayTitle":  "Quiz Maker",
+        "title":  "Quiz Maker",
+        "pageTitle":  "Quiz Maker — Retro Arcade Quiz Builder",
+        "category":  "education",
+        "subcategory":  "school",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "quiz maker",
+                         "education",
+                         "school",
+                         "quiz"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t001/"
     },
     {
         "id":  "t002",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Digital Moon Agency",
+        "title":  "Digital Moon Agency",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "digital moon agency",
+                         "business-services",
+                         "marketing",
+                         "design",
+                         "agency",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t002/"
     },
     {
         "id":  "t003",
-        "title":  "Lumen â€” AI Image Generator",
+        "displayTitle":  "Lumen",
+        "title":  "Lumen",
+        "pageTitle":  "Lumen — AI Image Generator",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "lumen",
+                         "creative",
+                         "art-graphic-design",
+                         "ai",
+                         "photography",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t003/"
     },
     {
         "id":  "t004",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Shaanti Studio",
+        "title":  "Shaanti Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "shaanti studio",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "wellness",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t004/"
     },
     {
         "id":  "t005",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "MoodBloom",
+        "title":  "MoodBloom",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "moodbloom",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t005/"
     },
     {
         "id":  "t006",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Artisan Stories",
+        "title":  "Artisan Stories",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "blog",
+        "subcategory":  "blog",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "artisan stories",
+                         "blog",
+                         "ai",
+                         "travel"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t006/"
     },
     {
         "id":  "t007",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "MediCare Pro",
+        "title":  "MediCare Pro",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "medical-health-care",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "medicare pro",
+                         "health-wellness",
+                         "medical-health-care",
+                         "ai",
+                         "health"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t007/"
     },
     {
         "id":  "t008",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Capuk",
+        "title":  "Capuk",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "capuk",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "health",
+                         "portfolio",
+                         "design",
+                         "agency"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t008/"
     },
     {
         "id":  "t009",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "LexiMetric",
+        "title":  "LexiMetric",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "leximetric",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t009/"
     },
     {
         "id":  "t010",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Budget Tracker",
+        "title":  "Budget Tracker",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "budget tracker",
+                         "business-services",
+                         "financial",
+                         "ai",
+                         "finance",
+                         "health",
+                         "food"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t010/"
     },
     {
         "id":  "t011",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Temperature Converter",
+        "title":  "Temperature Converter",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "simple"
+                        ],
+        "keywords":  [
+                         "temperature converter",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t011/"
     },
     {
         "id":  "t012",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "QuizForge",
+        "title":  "QuizForge",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "education",
+        "subcategory":  "school",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "quizforge",
+                         "education",
+                         "school",
+                         "quiz"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t012/"
     },
     {
         "id":  "t013",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "PankeshCRM",
+        "title":  "PankeshCRM",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pankeshcrm",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "crm"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t013/"
     },
     {
         "id":  "t014",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Wishlist",
+        "title":  "Wishlist",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "ecommerce",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "wishlist",
+                         "ecommerce",
+                         "ai",
+                         "wedding"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t014/"
     },
     {
         "id":  "t015",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Harvest Kitchen",
+        "title":  "Harvest Kitchen",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "harvest kitchen",
+                         "health-wellness",
+                         "health-beauty",
+                         "design",
+                         "food",
+                         "restaurant",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t015/"
     },
     {
         "id":  "t016",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Forever Planned",
+        "title":  "Forever Planned",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "wedding",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "forever planned",
+                         "events",
+                         "wedding",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t016/"
     },
     {
         "id":  "t017",
-        "title":  "Meridian â€” Strategic Marketing Consultancy",
+        "displayTitle":  "Meridian",
+        "title":  "Meridian",
+        "pageTitle":  "Meridian — Strategic Marketing Consultancy",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "meridian",
+                         "business-services",
+                         "consulting-coaching",
+                         "marketing",
+                         "health",
+                         "agency"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t017/"
     },
     {
         "id":  "t018",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "ContentFlow",
+        "title":  "ContentFlow",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "contentflow",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t018/"
     },
     {
         "id":  "t019",
-        "title":  "t019",
+        "displayTitle":  "Serenity Yoga Studio",
+        "title":  "Serenity Yoga Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "serenity yoga studio",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "wellness",
+                         "fitness",
+                         "yoga",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t019/"
     },
     {
         "id":  "t020",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Wellness Nutrition",
+        "title":  "Wellness Nutrition",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "wellness nutrition",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "health",
+                         "wellness",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t020/"
     },
     {
         "id":  "t021",
-        "title":  "Northvale Capital â€” Private wealth, deliberately built.",
+        "displayTitle":  "Northvale Capital",
+        "title":  "Northvale Capital",
+        "pageTitle":  "Northvale Capital — Private wealth, deliberately built.",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates"
+                        ],
+        "keywords":  [
+                         "northvale capital",
+                         "business-services",
+                         "financial"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t021/"
     },
     {
         "id":  "t022",
-        "title":  "Volt \u0026 Spark Electric â€” Licensed electricians in Springfield",
+        "displayTitle":  "Volt \u0026 Spark Electric",
+        "title":  "Volt \u0026 Spark Electric",
+        "pageTitle":  "Volt \u0026 Spark Electric — Licensed electricians in Springfield",
+        "category":  "business-services",
+        "subcategory":  "electrician",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "volt \u0026 spark electric",
+                         "business-services",
+                         "electrician",
+                         "ai",
+                         "portfolio"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t022/"
     },
     {
         "id":  "t023",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Livia \u0026 Tyler",
+        "title":  "Livia \u0026 Tyler",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "wedding",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "livia \u0026 tyler",
+                         "events",
+                         "wedding",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t023/"
     },
     {
         "id":  "t024",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Marcus Thompson",
+        "title":  "Marcus Thompson",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "link-in-bio",
+        "subcategory":  "link-in-bio",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "marcus thompson",
+                         "link-in-bio"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t024/"
     },
     {
         "id":  "t025",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Marcus Thompson",
+        "title":  "Marcus Thompson",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "link-in-bio",
+        "subcategory":  "link-in-bio",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "marcus thompson",
+                         "link-in-bio"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t025/"
     },
     {
         "id":  "t026",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Pub Quiz Master",
+        "title":  "Pub Quiz Master",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "education",
+        "subcategory":  "school",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pub quiz master",
+                         "education",
+                         "school",
+                         "quiz"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t026/"
     },
     {
         "id":  "t027",
-        "title":  "StratEdge - Professional Trading Strategy Analyzer",
+        "displayTitle":  "StratEdge",
+        "title":  "StratEdge",
+        "pageTitle":  "StratEdge - Professional Trading Strategy Analyzer",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "stratedge",
+                         "business-services",
+                         "financial"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t027/"
     },
     {
         "id":  "t028",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Baby Name Generator",
+        "title":  "Baby Name Generator",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "baby name generator",
+                         "business-services",
+                         "technology",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t028/"
     },
     {
         "id":  "t029",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "BrightSmile Dental Clinic",
+        "title":  "BrightSmile Dental Clinic",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "dental",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "brightsmile dental clinic",
+                         "health-wellness",
+                         "dental",
+                         "ai",
+                         "health",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t029/"
     },
     {
         "id":  "t030",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Alpaca Wool Boutique",
+        "title":  "Alpaca Wool Boutique",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "alpaca wool boutique",
+                         "ecommerce",
+                         "fashion",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t030/"
     },
     {
         "id":  "t031",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Saint-Laurent Restaurant",
+        "title":  "Saint-Laurent Restaurant",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "restaurants",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "saint-laurent restaurant",
+                         "business-services",
+                         "restaurants",
+                         "ai",
+                         "health",
+                         "food",
+                         "restaurant"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t031/"
     },
     {
         "id":  "t032",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Elena Voss",
+        "title":  "Elena Voss",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-gallery",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "elena voss",
+                         "creative",
+                         "art-gallery",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t032/"
     },
     {
         "id":  "t033",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "ProHandyman",
+        "title":  "ProHandyman",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "handyman",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "prohandyman",
+                         "business-services",
+                         "handyman",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t033/"
     },
     {
         "id":  "t034",
-        "title":  "Sloganly â€” AI Slogan Generator for Modern Brands",
+        "displayTitle":  "Sloganly",
+        "title":  "Sloganly",
+        "pageTitle":  "Sloganly — AI Slogan Generator for Modern Brands",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "sloganly",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t034/"
     },
     {
         "id":  "t035",
-        "title":  "Northstar \u0026 Field - Independent Strategy Office",
+        "displayTitle":  "Northstar \u0026 Field",
+        "title":  "Northstar \u0026 Field",
+        "pageTitle":  "Northstar \u0026 Field - Independent Strategy Office",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "northstar \u0026 field",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai",
+                         "design",
+                         "consulting"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t035/"
     },
     {
         "id":  "t036",
-        "title":  "Field Notes Studio | Brand Strategy and Positioning",
+        "displayTitle":  "Field Notes Studio",
+        "title":  "Field Notes Studio",
+        "pageTitle":  "Field Notes Studio | Brand Strategy and Positioning",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "field notes studio",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t036/"
     },
     {
         "id":  "t037",
-        "title":  "Alex Morgan â€” Senior Full-Stack Engineer",
+        "displayTitle":  "Alex Morgan",
+        "title":  "Alex Morgan",
+        "pageTitle":  "Alex Morgan — Senior Full-Stack Engineer",
+        "category":  "portfolio",
+        "subcategory":  "resume",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "alex morgan",
+                         "portfolio",
+                         "resume",
+                         "ai",
+                         "design",
+                         "education"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t037/"
     },
     {
         "id":  "t038",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Invoice Generator",
+        "title":  "Invoice Generator",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "accounting",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "invoice generator",
+                         "business-services",
+                         "accounting",
+                         "ai",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t038/"
     },
     {
         "id":  "t039",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Travel Yoga",
+        "title":  "Travel Yoga",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "travel yoga",
+                         "health-wellness",
+                         "health-beauty",
+                         "yoga",
+                         "design",
+                         "travel"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t039/"
     },
     {
         "id":  "t040",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "PULSE",
+        "title":  "PULSE",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pulse",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "fitness",
+                         "yoga",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t040/"
     },
     {
         "id":  "t041",
-        "title":  "fleur - Coming Soon",
+        "displayTitle":  "Fleur",
+        "title":  "Fleur",
+        "pageTitle":  "fleur - Coming Soon",
+        "category":  "business-services",
+        "subcategory":  "florist",
+        "collections":  [
+                            "coming-soon",
+                            "landing-page",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "fleur",
+                         "business-services",
+                         "florist"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t041/"
     },
     {
         "id":  "t042",
-        "title":  "Winamp Focus â€” Old-school Pomodoro for deep work",
+        "displayTitle":  "Winamp Focus",
+        "title":  "Winamp Focus",
+        "pageTitle":  "Winamp Focus — Old-school Pomodoro for deep work",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "simple"
+                        ],
+        "keywords":  [
+                         "winamp focus",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t042/"
     },
     {
         "id":  "t043",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Spooky Night",
+        "title":  "Spooky Night",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "events",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "spooky night",
+                         "events",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t043/"
     },
     {
         "id":  "t044",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "MagicBooks",
+        "title":  "MagicBooks",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "magicbooks",
+                         "creative",
+                         "art-graphic-design",
+                         "ai",
+                         "design",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t044/"
     },
     {
         "id":  "t045",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Chronos AI",
+        "title":  "Chronos AI",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "chronos ai",
+                         "creative",
+                         "art-graphic-design",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t045/"
     },
     {
         "id":  "t046",
-        "title":  "Lumio â€” Your photos called. They want a glow-up.",
+        "displayTitle":  "Lumio",
+        "title":  "Lumio",
+        "pageTitle":  "Lumio — Your photos called. They want a glow-up.",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "lumio",
+                         "creative",
+                         "art-graphic-design",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t046/"
     },
     {
         "id":  "t047",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Serene Healing",
+        "title":  "Serene Healing",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "therapy",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "serene healing",
+                         "health-wellness",
+                         "therapy",
+                         "ai",
+                         "wellness",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t047/"
     },
     {
         "id":  "t048",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Midcentury Decor",
+        "title":  "Midcentury Decor",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "ecommerce",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "midcentury decor",
+                         "ecommerce",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t048/"
     },
     {
         "id":  "t049",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "R/NESS",
+        "title":  "R/NESS",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "r/ness",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "fitness",
+                         "design",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t049/"
     },
     {
         "id":  "t050",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "AYANA Chiropractic Studio",
+        "title":  "AYANA Chiropractic Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "chiropractor",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "ayana chiropractic studio",
+                         "health-wellness",
+                         "chiropractor",
+                         "ai",
+                         "health",
+                         "wellness",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t050/"
     },
     {
         "id":  "t051",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Studio Creative",
+        "title":  "Studio Creative",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "studio creative",
+                         "creative",
+                         "art-graphic-design",
+                         "ai",
+                         "photography",
+                         "portfolio",
+                         "design",
+                         "fashion"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t051/"
     },
     {
         "id":  "t052",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "The Royal Church",
+        "title":  "The Royal Church",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "community",
+        "subcategory":  "church-religion",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "the royal church",
+                         "community",
+                         "church-religion",
+                         "ai",
+                         "church",
+                         "blog"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t052/"
     },
     {
         "id":  "t053",
-        "title":  "NutriPal â€” Calorie Calculator \u0026 Meal Tracker",
+        "displayTitle":  "NutriPal",
+        "title":  "NutriPal",
+        "pageTitle":  "NutriPal — Calorie Calculator \u0026 Meal Tracker",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "nutripal",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "design",
+                         "calculator",
+                         "food"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t053/"
     },
     {
         "id":  "t054",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Impact Accounting",
+        "title":  "Impact Accounting",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "accounting",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "impact accounting",
+                         "business-services",
+                         "accounting",
+                         "ai",
+                         "health"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t054/"
     },
     {
         "id":  "t055",
-        "title":  "Percentify â€” Percentage math, but make it fun",
+        "displayTitle":  "Percentify",
+        "title":  "Percentify",
+        "pageTitle":  "Percentify — Percentage math, but make it fun",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "simple"
+                        ],
+        "keywords":  [
+                         "percentify",
+                         "business-services",
+                         "technology",
+                         "calculator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t055/"
     },
     {
         "id":  "t056",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FitGen",
+        "title":  "FitGen",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "fitgen",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "fitness",
+                         "yoga",
+                         "design",
+                         "generator",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t056/"
     },
     {
         "id":  "t057",
-        "title":  "The Chef â€” cook with what you have",
+        "displayTitle":  "The Chef",
+        "title":  "The Chef",
+        "pageTitle":  "The Chef — cook with what you have",
+        "category":  "business-services",
+        "subcategory":  "food-drinks",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "the chef",
+                         "business-services",
+                         "food-drinks"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t057/"
     },
     {
         "id":  "t058",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "ConvertIQ",
+        "title":  "ConvertIQ",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "convertiq",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t058/"
     },
     {
         "id":  "t059",
-        "title":  "Mateo Ãlvarez â€” Photographer \u0026 Director",
+        "displayTitle":  "Mateo Alvarez",
+        "title":  "Mateo Alvarez",
+        "pageTitle":  "Mateo Álvarez — Photographer \u0026 Director",
+        "category":  "portfolio",
+        "subcategory":  "photography",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "mateo alvarez",
+                         "portfolio",
+                         "photography",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t059/"
     },
     {
         "id":  "t060",
-        "title":  "Sloganly â€” slogans that slap (probably)",
+        "displayTitle":  "Sloganly",
+        "title":  "Sloganly",
+        "pageTitle":  "Sloganly — slogans that slap (probably)",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "sloganly",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "yoga",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t060/"
     },
     {
         "id":  "t061",
-        "title":  "Sloganly â€” slogans that slap (probably)",
+        "displayTitle":  "Sloganly",
+        "title":  "Sloganly",
+        "pageTitle":  "Sloganly — slogans that slap (probably)",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "sloganly",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "yoga",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t061/"
     },
     {
         "id":  "t062",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Timezone Converter",
+        "title":  "Timezone Converter",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "simple"
+                        ],
+        "keywords":  [
+                         "timezone converter",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t062/"
     },
     {
         "id":  "t063",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Plug",
+        "title":  "Plug",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "coming-soon",
+                            "landing-page",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "plug",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t063/"
     },
     {
         "id":  "t064",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Serenity Yoga Studio",
+        "title":  "Serenity Yoga Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "serenity yoga studio",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "wellness",
+                         "yoga",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t064/"
     },
     {
         "id":  "t065",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Logo Maker",
+        "title":  "Logo Maker",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "logo maker",
+                         "creative",
+                         "art-graphic-design",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t065/"
     },
     {
         "id":  "t066",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Task Manager",
+        "title":  "Task Manager",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "task manager",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t066/"
     },
     {
         "id":  "t067",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Estate CRM",
+        "title":  "Estate CRM",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "real-estate",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "estate crm",
+                         "business-services",
+                         "real-estate",
+                         "ai",
+                         "design",
+                         "real estate",
+                         "crm",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t067/"
     },
     {
         "id":  "t068",
-        "title":  "Terraxiom Strategy | Climate and ESG Advisory",
+        "displayTitle":  "Terraxiom Strategy",
+        "title":  "Terraxiom Strategy",
+        "pageTitle":  "Terraxiom Strategy | Climate and ESG Advisory",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "terraxiom strategy",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai",
+                         "portfolio",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t068/"
     },
     {
         "id":  "t069",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Aloe Yoga",
+        "title":  "Aloe Yoga",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "aloe yoga",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "yoga",
+                         "design",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t069/"
     },
     {
         "id":  "t070",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FlowBuilder",
+        "title":  "FlowBuilder",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "flowbuilder",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t070/"
     },
     {
         "id":  "t071",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Color Palette Generator",
+        "title":  "Color Palette Generator",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "color palette generator",
+                         "creative",
+                         "art-graphic-design",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t071/"
     },
     {
         "id":  "t072",
-        "title":  "OrÃ¨lle â€” Maison d\u0027OrfÃ¨vrerie Â· GenÃ¨ve",
+        "displayTitle":  "Orelle",
+        "title":  "Orelle",
+        "pageTitle":  "Orèlle — Maison d\u0027Orfèvrerie · Genève",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "orelle",
+                         "ecommerce",
+                         "fashion",
+                         "ai",
+                         "wedding",
+                         "design",
+                         "travel"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t072/"
     },
     {
         "id":  "t073",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Meridian",
+        "title":  "Meridian",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "meridian",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "fitness",
+                         "portfolio",
+                         "design",
+                         "agency",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t073/"
     },
     {
         "id":  "t074",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "EventHub",
+        "title":  "EventHub",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "events",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "eventhub",
+                         "events",
+                         "fitness",
+                         "technology",
+                         "food",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t074/"
     },
     {
         "id":  "t075",
-        "title":  "Lumen \u0026 Co.* â€” Clarity Level Activated",
+        "displayTitle":  "Lumen \u0026 Co.",
+        "title":  "Lumen \u0026 Co.",
+        "pageTitle":  "Lumen \u0026 Co.* — Clarity Level Activated",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "lumen \u0026 co.",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai",
+                         "portfolio",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t075/"
     },
     {
         "id":  "t076",
-        "title":  "Inkwell â€” AI blog post studio",
+        "displayTitle":  "Inkwell",
+        "title":  "Inkwell",
+        "pageTitle":  "Inkwell — AI blog post studio",
+        "category":  "blog",
+        "subcategory":  "blog",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "inkwell",
+                         "blog",
+                         "ai",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t076/"
     },
     {
         "id":  "t077",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Creative Evolution",
+        "title":  "Creative Evolution",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "interior-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "creative evolution",
+                         "creative",
+                         "interior-design",
+                         "ai",
+                         "portfolio",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t077/"
     },
     {
         "id":  "t078",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Prestige Properties",
+        "title":  "Prestige Properties",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "real-estate",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "prestige properties",
+                         "business-services",
+                         "real-estate",
+                         "ai",
+                         "portfolio",
+                         "real estate"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t078/"
     },
     {
         "id":  "t079",
-        "title":  "NOCTURNE â€” Wear the hour.",
+        "displayTitle":  "NOCTURNE",
+        "title":  "NOCTURNE",
+        "pageTitle":  "NOCTURNE — Wear the hour.",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates"
+                        ],
+        "keywords":  [
+                         "nocturne",
+                         "ecommerce",
+                         "fashion"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t079/"
     },
     {
         "id":  "t080",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "The Founder\u0027s Journey",
+        "title":  "The Founder\u0027s Journey",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "blog",
+        "subcategory":  "blog",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "the founder\u0027s journey",
+                         "blog",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t080/"
     },
     {
         "id":  "t081",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Moon Agency",
+        "title":  "Moon Agency",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "moon agency",
+                         "business-services",
+                         "marketing",
+                         "portfolio",
+                         "design",
+                         "agency",
+                         "consulting"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t081/"
     },
     {
         "id":  "t082",
-        "title":  "Percentify â€” Beautiful percentage calculator for everyday math",
+        "displayTitle":  "Percentify",
+        "title":  "Percentify",
+        "pageTitle":  "Percentify — Beautiful percentage calculator for everyday math",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "percentify",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "calculator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t082/"
     },
     {
         "id":  "t083",
-        "title":  "People Grove - Human-Centered People Consultancy",
+        "displayTitle":  "People Grove",
+        "title":  "People Grove",
+        "pageTitle":  "People Grove - Human-Centered People Consultancy",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "people grove",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai",
+                         "health",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t083/"
     },
     {
         "id":  "t084",
-        "title":  "Textract â€” A precise instrument for text extraction",
+        "displayTitle":  "Textract",
+        "title":  "Textract",
+        "pageTitle":  "Textract — A precise instrument for text extraction",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "textract",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "design",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t084/"
     },
     {
         "id":  "t085",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "VeloCity",
+        "title":  "VeloCity",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "velocity",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t085/"
     },
     {
         "id":  "t086",
-        "title":  "Mainstage â€” When your audience speaks, you\u0027ll hear it.",
+        "displayTitle":  "Mainstage",
+        "title":  "Mainstage",
+        "pageTitle":  "Mainstage — When your audience speaks, you\u0027ll hear it.",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "mainstage",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t086/"
     },
     {
         "id":  "t087",
-        "title":  "Helm â€” Take the helm of what\u0027s next",
+        "displayTitle":  "Helm",
+        "title":  "Helm",
+        "pageTitle":  "Helm — Take the helm of what\u0027s next",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "helm",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t087/"
     },
     {
         "id":  "t088",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FLYT Studio",
+        "title":  "FLYT Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "flyt studio",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "portfolio",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t088/"
     },
     {
         "id":  "t089",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Maison Studio",
+        "title":  "Maison Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "interior-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "maison studio",
+                         "creative",
+                         "interior-design",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t089/"
     },
     {
         "id":  "t090",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "NeoTech",
+        "title":  "NeoTech",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "neotech",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "finance",
+                         "health",
+                         "education",
+                         "blog",
+                         "consulting"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t090/"
     },
     {
         "id":  "t091",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "EarthRise",
+        "title":  "EarthRise",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "community",
+        "subcategory":  "non-profit",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "earthrise",
+                         "community",
+                         "non-profit",
+                         "ai",
+                         "blog"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t091/"
     },
     {
         "id":  "t092",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "VitaBMI",
+        "title":  "VitaBMI",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "medical-health-care",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "vitabmi",
+                         "health-wellness",
+                         "medical-health-care",
+                         "ai",
+                         "health",
+                         "wellness",
+                         "calculator",
+                         "blog",
+                         "consulting"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t092/"
     },
     {
         "id":  "t093",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Italian Destination Wedding Planner",
+        "title":  "Italian Destination Wedding Planner",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "wedding",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "italian destination wedding planner",
+                         "events",
+                         "wedding",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t093/"
     },
     {
         "id":  "t094",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Oui Speak French",
+        "title":  "Oui Speak French",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "education",
+        "subcategory":  "school",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "oui speak french",
+                         "education",
+                         "school",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t094/"
     },
     {
         "id":  "t095",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FocusFlow",
+        "title":  "FocusFlow",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "simple"
+                        ],
+        "keywords":  [
+                         "focusflow",
+                         "business-services",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t095/"
     },
     {
         "id":  "t096",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Image Scaler",
+        "title":  "Image Scaler",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "image scaler",
+                         "creative",
+                         "art-graphic-design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t096/"
     },
     {
         "id":  "t097",
-        "title":  "VELOUR â€” Soft Power. Sharp Silhouettes.",
+        "displayTitle":  "VELOUR",
+        "title":  "VELOUR",
+        "pageTitle":  "VELOUR — Soft Power. Sharp Silhouettes.",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "velour",
+                         "ecommerce",
+                         "fashion",
+                         "ai",
+                         "design",
+                         "construction"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t097/"
     },
     {
         "id":  "t098",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Coming Soon",
+        "title":  "Coming Soon",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "coming-soon",
+                            "blank-templates",
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "coming soon",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t098/"
     },
     {
         "id":  "t099",
+        "displayTitle":  "Eclipse",
         "title":  "Eclipse",
+        "pageTitle":  "Eclipse",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "eclipse",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "health"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t099/"
     },
     {
         "id":  "t100",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "PankeshCRM",
+        "title":  "PankeshCRM",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pankeshcrm",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "crm"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t100/"
     },
     {
         "id":  "t101",
-        "title":  "TAKEUP Â· Small-Batch Roastery Â· NYC",
+        "displayTitle":  "TAKEUP",
+        "title":  "TAKEUP",
+        "pageTitle":  "TAKEUP · Small-Batch Roastery · NYC",
+        "category":  "business-services",
+        "subcategory":  "food-drinks",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates"
+                        ],
+        "keywords":  [
+                         "takeup",
+                         "business-services",
+                         "food-drinks"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t101/"
     },
     {
         "id":  "t102",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Sterling \u0026 Associates",
+        "title":  "Sterling \u0026 Associates",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "law",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "sterling \u0026 associates",
+                         "business-services",
+                         "law",
+                         "ai",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t102/"
     },
     {
         "id":  "t103",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Margin Magic",
+        "title":  "Margin Magic",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "margin magic",
+                         "business-services",
+                         "financial",
+                         "ai",
+                         "quiz",
+                         "health",
+                         "calculator",
+                         "fashion",
+                         "restaurant"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t103/"
     },
     {
         "id":  "t104",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Alyson X",
+        "title":  "Alyson X",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "link-in-bio",
+        "subcategory":  "link-in-bio",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "alyson x",
+                         "link-in-bio"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t104/"
     },
     {
         "id":  "t105",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Christine Monterrey",
+        "title":  "Christine Monterrey",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "events",
+        "subcategory":  "wedding",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "christine monterrey",
+                         "events",
+                         "wedding",
+                         "ai",
+                         "photography"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t105/"
     },
     {
         "id":  "t106",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FixRight",
+        "title":  "FixRight",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "handyman",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "fixright",
+                         "business-services",
+                         "handyman",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t106/"
     },
     {
         "id":  "t107",
-        "title":  "Signal \u0026 Chair - Executive Leadership Lab",
+        "displayTitle":  "Signal \u0026 Chair",
+        "title":  "Signal \u0026 Chair",
+        "pageTitle":  "Signal \u0026 Chair - Executive Leadership Lab",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "signal \u0026 chair",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t107/"
     },
     {
         "id":  "t108",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Coming Soon",
+        "title":  "Coming Soon",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "coming-soon",
+                            "blank-templates",
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "coming soon",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t108/"
     },
     {
         "id":  "t109",
-        "title":  "Atelier VÅ“u â€” Couture Wedding Invitations",
+        "displayTitle":  "Vellum \u0026 Vow",
+        "title":  "Vellum \u0026 Vow",
+        "pageTitle":  "Atelier Vœu — Couture Wedding Invitations",
+        "category":  "events",
+        "subcategory":  "wedding",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "vellum \u0026 vow",
+                         "events",
+                         "wedding",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t109/"
     },
     {
         "id":  "t110",
-        "title":  "Pulse â€” Where the room finds its voice.",
+        "displayTitle":  "Pulse",
+        "title":  "Pulse",
+        "pageTitle":  "Pulse — Where the room finds its voice.",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pulse",
+                         "business-services",
+                         "technology",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t110/"
     },
     {
         "id":  "t111",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Atelier Studio",
+        "title":  "Atelier Studio",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "creative",
+        "subcategory":  "architecture",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "atelier studio",
+                         "creative",
+                         "architecture",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t111/"
     },
     {
         "id":  "t112",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Travel Life Journal",
+        "title":  "Travel Life Journal",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "blog",
+        "subcategory":  "blog",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "travel life journal",
+                         "blog",
+                         "ai",
+                         "photography",
+                         "travel",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t112/"
     },
     {
         "id":  "t113",
-        "title":  "BodyIndex â€” Premium BMI \u0026 Health Insights Calculator",
+        "displayTitle":  "BodyIndex",
+        "title":  "BodyIndex",
+        "pageTitle":  "BodyIndex — Premium BMI \u0026 Health Insights Calculator",
+        "category":  "health-wellness",
+        "subcategory":  "medical-health-care",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "bodyindex",
+                         "health-wellness",
+                         "medical-health-care",
+                         "ai",
+                         "health",
+                         "design",
+                         "calculator",
+                         "food"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t113/"
     },
     {
         "id":  "t114",
-        "title":  "BodyIndex â€” Premium BMI \u0026 Health Insights Calculator",
+        "displayTitle":  "BodyIndex",
+        "title":  "BodyIndex",
+        "pageTitle":  "BodyIndex — Premium BMI \u0026 Health Insights Calculator",
+        "category":  "health-wellness",
+        "subcategory":  "medical-health-care",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "bodyindex",
+                         "health-wellness",
+                         "medical-health-care",
+                         "ai",
+                         "health",
+                         "design",
+                         "calculator",
+                         "food"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t114/"
     },
     {
         "id":  "t115",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Urban Tracker",
+        "title":  "Urban Tracker",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "portfolio",
+        "subcategory":  "photography",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "urban tracker",
+                         "portfolio",
+                         "photography"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t115/"
     },
     {
         "id":  "t116",
-        "title":  "NEON FOCUS // Cyberpunk Productivity HUD",
+        "displayTitle":  "Neon Focus",
+        "title":  "Neon Focus",
+        "pageTitle":  "NEON FOCUS // Cyberpunk Productivity HUD",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "neon focus",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "productivity"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t116/"
     },
     {
         "id":  "t117",
-        "title":  "Lumio â€” AI Image Enhancement, Perfected",
+        "displayTitle":  "Lumio",
+        "title":  "Lumio",
+        "pageTitle":  "Lumio — AI Image Enhancement, Perfected",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "lumio",
+                         "creative",
+                         "art-graphic-design",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t117/"
     },
     {
         "id":  "t118",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "AI Hairstyle Changer",
+        "title":  "AI Hairstyle Changer",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "ai hairstyle changer",
+                         "ecommerce",
+                         "fashion",
+                         "ai",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t118/"
     },
     {
         "id":  "t119",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "FitFlow",
+        "title":  "FitFlow",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "health-wellness",
+        "subcategory":  "health-beauty",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "fitflow",
+                         "health-wellness",
+                         "health-beauty",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t119/"
     },
     {
         "id":  "t120",
-        "title":  "The Profit Register â€” Pricing Calculator Suite",
+        "displayTitle":  "The Profit Register",
+        "title":  "The Profit Register",
+        "pageTitle":  "The Profit Register — Pricing Calculator Suite",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "the profit register",
+                         "business-services",
+                         "financial",
+                         "ai",
+                         "calculator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t120/"
     },
     {
         "id":  "t121",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "TechOfertas",
+        "title":  "TechOfertas",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "ecommerce",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "techofertas",
+                         "ecommerce",
+                         "ai",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t121/"
     },
     {
         "id":  "t122",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "ElectricPro",
+        "title":  "ElectricPro",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "electrician",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "electricpro",
+                         "business-services",
+                         "electrician",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t122/"
     },
     {
         "id":  "t123",
-        "title":  "Apex \u0026 Asphalt â€” Automotive Editorial Photography",
+        "displayTitle":  "Apex \u0026 Asphalt",
+        "title":  "Apex \u0026 Asphalt",
+        "pageTitle":  "Apex \u0026 Asphalt — Automotive Editorial Photography",
+        "category":  "portfolio",
+        "subcategory":  "photography",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "apex \u0026 asphalt",
+                         "portfolio",
+                         "photography",
+                         "ai"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t123/"
     },
     {
         "id":  "t124",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Laurent Caesar",
+        "title":  "Laurent Caesar",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "portfolio",
+        "subcategory":  "resume",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "laurent caesar",
+                         "portfolio",
+                         "resume",
+                         "education"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t124/"
     },
     {
         "id":  "t125",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "First Baptist Church",
+        "title":  "First Baptist Church",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "community",
+        "subcategory":  "church-religion",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "first baptist church",
+                         "community",
+                         "church-religion",
+                         "ai",
+                         "church"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t125/"
     },
     {
         "id":  "t126",
-        "title":  "Storynest â€” Magical AI Bedtime Stories for Kids",
+        "displayTitle":  "Storynest",
+        "title":  "Storynest",
+        "pageTitle":  "Storynest — Magical AI Bedtime Stories for Kids",
+        "category":  "creative",
+        "subcategory":  "art-graphic-design",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "storynest",
+                         "creative",
+                         "art-graphic-design",
+                         "ai",
+                         "generator"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t126/"
     },
     {
         "id":  "t127",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Lumina",
+        "title":  "Lumina",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "consulting-coaching",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "lumina",
+                         "business-services",
+                         "consulting-coaching",
+                         "ai",
+                         "finance",
+                         "health",
+                         "design",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t127/"
     },
     {
         "id":  "t128",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "PankeshCRM",
+        "title":  "PankeshCRM",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "pankeshcrm",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "crm"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t128/"
     },
     {
         "id":  "t129",
-        "title":  "Northvale Capital â€” Private wealth, deliberately built.",
+        "displayTitle":  "Northvale Capital",
+        "title":  "Northvale Capital",
+        "pageTitle":  "Northvale Capital — Private wealth, deliberately built.",
+        "category":  "business-services",
+        "subcategory":  "financial",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "northvale capital",
+                         "business-services",
+                         "financial"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t129/"
     },
     {
         "id":  "t130",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Marketing Quote Calculator",
+        "title":  "Marketing Quote Calculator",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "marketing quote calculator",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "design",
+                         "agency",
+                         "calculator",
+                         "community",
+                         "blog"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t130/"
     },
     {
         "id":  "t131",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Real Stories",
+        "title":  "Real Stories",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "portfolio",
+        "subcategory":  "photography",
+        "collections":  [
+                            "landing-page",
+                            "popular-templates",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "real stories",
+                         "portfolio",
+                         "photography",
+                         "ai",
+                         "legal"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t131/"
     },
     {
         "id":  "t132",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Haven",
+        "title":  "Haven",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "ecommerce",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "haven",
+                         "ecommerce",
+                         "community"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t132/"
     },
     {
         "id":  "t133",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "BuildRight Construction",
+        "title":  "BuildRight Construction",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "construction",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "buildright construction",
+                         "business-services",
+                         "construction",
+                         "ai",
+                         "portfolio",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t133/"
     },
     {
         "id":  "t134",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Creative Agency",
+        "title":  "Creative Agency",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "creative agency",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "portfolio",
+                         "design",
+                         "agency"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t134/"
     },
     {
         "id":  "t135",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "QuizVibe",
+        "title":  "QuizVibe",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "education",
+        "subcategory":  "school",
+        "collections":  [
+                            "landing-page",
+                            "modern",
+                            "simple"
+                        ],
+        "keywords":  [
+                         "quizvibe",
+                         "education",
+                         "school",
+                         "ai",
+                         "quiz"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t135/"
     },
     {
         "id":  "t136",
-        "title":  "Arclight â€” Mission-grade operations for modern product teams",
+        "displayTitle":  "Arclight",
+        "title":  "Arclight",
+        "pageTitle":  "Arclight — Mission-grade operations for modern product teams",
+        "category":  "business-services",
+        "subcategory":  "technology",
+        "collections":  [
+                            "popular-templates",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "arclight",
+                         "business-services",
+                         "technology",
+                         "ai",
+                         "design"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t136/"
     },
     {
         "id":  "t137",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Hausmark",
+        "title":  "Hausmark",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "real-estate",
+        "collections":  [
+                            "landing-page"
+                        ],
+        "keywords":  [
+                         "hausmark",
+                         "business-services",
+                         "real-estate"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t137/"
     },
     {
         "id":  "t138",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "StyleAI",
+        "title":  "StyleAI",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "ecommerce",
+        "subcategory":  "fashion",
+        "collections":  [
+                            "modern"
+                        ],
+        "keywords":  [
+                         "styleai",
+                         "ecommerce",
+                         "fashion",
+                         "ai",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t138/"
     },
     {
         "id":  "t139",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "Jane Doe",
+        "title":  "Jane Doe",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "jane doe",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "fitness",
+                         "portfolio",
+                         "design",
+                         "community",
+                         "consulting"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t139/"
     },
     {
         "id":  "t140",
-        "title":  "Hostinger Horizons",
+        "displayTitle":  "SocialSpark AI",
+        "title":  "SocialSpark AI",
+        "pageTitle":  "Build with Pankesh.Tech",
+        "category":  "business-services",
+        "subcategory":  "marketing",
+        "collections":  [
+                            "landing-page",
+                            "modern"
+                        ],
+        "keywords":  [
+                         "socialspark ai",
+                         "business-services",
+                         "marketing",
+                         "ai",
+                         "technology"
+                     ],
         "status":  "built",
         "url":  "https://pankesh-in.github.io/pankesh-tech/t140/"
     }
