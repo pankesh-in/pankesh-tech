@@ -517,7 +517,7 @@
   function updateFavoriteButton(button, template) {
     var isFavorite = favorites.has(template.id);
     button.classList.toggle('is-favorite', isFavorite);
-    button.textContent = isFavorite ? '♥' : '♡';
+    button.textContent = isFavorite ? '\u2665' : '\u2661';
     button.setAttribute('aria-pressed', String(isFavorite));
     button.setAttribute('aria-label', (isFavorite ? 'Remove ' : 'Add ') + template.displayTitle + (isFavorite ? ' from favorites' : ' to favorites'));
     button.title = isFavorite ? 'Remove from favorites' : 'Add to favorites';
@@ -540,18 +540,18 @@
       return;
     }
 
-    pagination.appendChild(createPageButton('‹', state.page - 1, 'Previous page', state.page === 1, true));
+    pagination.appendChild(createPageButton('\u2039', state.page - 1, 'Previous page', state.page === 1, true));
     getPageItems(pageCount, state.page).forEach(function (item) {
       if (item === 'ellipsis') {
         var ellipsis = document.createElement('span');
-        ellipsis.textContent = '…';
+        ellipsis.textContent = '\u2026';
         ellipsis.setAttribute('aria-hidden', 'true');
         pagination.appendChild(ellipsis);
       } else {
         pagination.appendChild(createPageButton(String(item), item, 'Page ' + item, false, false, item === state.page));
       }
     });
-    pagination.appendChild(createPageButton('›', state.page + 1, 'Next page', state.page === pageCount, true));
+    pagination.appendChild(createPageButton('\u203a', state.page + 1, 'Next page', state.page === pageCount, true));
   }
 
   function createPageButton(text, page, label, disabled, isArrow, isCurrent) {
